@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "3675598c86d1fa49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8289c4b0ab14dcc3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01ee59fccfe8ccdf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "845a0d194df6ad08",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "48a772a8e50eaf36",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "977a6ef13f2be089",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c3a4e457ba947f19",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1814bd91facdb01c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9128dba30ec015f7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d1bb9c54d1a7f8b9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2acc9fc52b9b6aee",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "8289c4b0ab14dcc3",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2022-08-14.md",
+    "Untitledfghfgh.md",
+    "Superfunctional training by Adam sinicki,The bioneer (z-lib.org).pdf"
+  ]
+}
