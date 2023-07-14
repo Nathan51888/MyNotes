@@ -1,7 +1,7 @@
 # Taking Conceptual Notes
 Author: 
 Type: Youtube Video
-Topics: Learning, Note Taking
+Topics: #Learning, [[Note Taking]], [[Conceptual Notes]]
 Link: https://www.youtube.com/watch?v=MYJsGksojms&t=902s
 
 ---

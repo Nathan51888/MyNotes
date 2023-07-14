@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "23d5ee5fba79c1c5",
+        "id": "ea9d291e9abc5c1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Daily Notes/2022-08-15.md",
-            "mode": "source",
+            "file": "Business/Quality Management.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e7aae6277de02a90",
+    "id": "6ee81cf4aec42728",
     "type": "split",
     "children": [
       {
-        "id": "54d3b50da48c001c",
+        "id": "9754c3d95df04789",
         "type": "tabs",
         "children": [
           {
-            "id": "9e30c38fa8e8e323",
+            "id": "eebd182e729d8df5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "c21085aca80210ee",
+            "id": "be374b50063ad623",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "493d209f3a5fb8a8",
+            "id": "dbe0ef51f82e664c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,23 +62,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
-    "id": "0d7df134d21a1bee",
+    "id": "cde8a994940c7f00",
     "type": "split",
     "children": [
       {
-        "id": "e503ff81a253a218",
+        "id": "55e79029c45c00b6",
         "type": "tabs",
         "children": [
           {
-            "id": "4da136bd14a7e2a4",
+            "id": "be59dab9d294a552",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Daily Notes/2022-08-15.md",
+                "file": "Business/Quality Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +90,19 @@
             }
           },
           {
-            "id": "55fe5e4eff945dda",
+            "id": "d3774ab9f8ab66aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Daily Notes/2022-08-15.md",
+                "file": "Business/Quality Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3ec4631a0a0bde5a",
+            "id": "51a727ff4d103d76",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,41 +113,48 @@
             }
           },
           {
-            "id": "90e5afc64b49024c",
+            "id": "c31834c465e9711d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Daily Notes/2022-08-15.md"
+                "file": "Business/Quality Management.md"
               }
-            }
-          },
-          {
-            "id": "fd99a1f7197a31cf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "b505aeb20c32ddfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb9ae38f692872f",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "23d5ee5fba79c1c5",
+  "active": "ea9d291e9abc5c1a",
   "lastOpenFiles": [
+    "Business/Quality Control.md",
+    "Business/Quality Management.md",
+    "Business/Kaizen.md",
+    "Business/Quality Circles.md",
+    "Business/Total Quality Management.md",
     "Conceptual Notes.md",
-    "Taking Conceptual Notes.md",
-    "First Principles Thinking.md",
-    "Forces.md",
-    "_Templates/Daily Note Template.md",
-    "_Templates/Literature Note Template.md",
-    "_Templates/School Note Template.md",
-    "Pressure.md",
-    "Motion.md",
-    "Smoke Curing.md"
+    "Business/Quality Assurance.md",
+    "_Daily Notes/2022-11-06.md",
+    "Business/Invention.md",
+    "Business/Innovation.md"
   ]
 }

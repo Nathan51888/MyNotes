@@ -1,15 +1,19 @@
-# {{date}}
+# [[Daily Notes]] {{date}}
+
 -Mood: 
 -Productivity: 
 -Sleep/Wake-up-time: 
 
 Highlight of The Day: 
 
+
 I am Grateful For: 
+
 
 To-Dos:
 - [ ] 
 
 Morning Brain Dump:
+
 
 Reflection:

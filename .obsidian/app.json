@@ -4,5 +4,6 @@
     "en-AU"
   ],
   "showFrontmatter": false,
-  "livePreview": false
+  "livePreview": false,
+  "alwaysUpdateLinks": true
 }

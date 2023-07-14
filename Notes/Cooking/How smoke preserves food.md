@@ -1,7 +1,7 @@
-# Smoke Curing
-Author: 
+
+Author: Adam Ragusea
 Type: YouTube Video
-Topics: [[Smoke Curing]], [[Salt Curing]]
+Topics: [[Smoke Curing]], [[Salt Curing]] #Cooking
 Link: https://www.youtube.com/watch?v=qNrnwAKBU3Q
 
 ---
@@ -19,5 +19,3 @@ Link: https://www.youtube.com/watch?v=qNrnwAKBU3Q
 
 - Fruits can be salt cured just like a piece of meat.
 	- The acidity of fruits makes it less hospitable to microorganisms.
-
-#Cooking

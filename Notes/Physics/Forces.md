@@ -14,11 +14,11 @@ A [[force]] is a push or a pull and is measured in newtons.
 
 ## Balanced Force
 
-Balanced forces are [[forces]] that act on an object but **cancels** each other out because they are the **same size** and are acting **opposite directions**. Resulting in **no [[net force]]** on the object.
+Balanced forces are [[Forces]] that act on an object but **cancels** each other out because they are the **same size** and are acting **opposite directions**. Resulting in **no [[net force]]** on the object.
 
 ## Unbalanced Force
 
-If the [[forces]] acting on an object are in **opposite directions** and **different sizes** then it is **unbalanced**.
+If the [[Forces]] acting on an object are in **opposite directions** and **different sizes** then it is **unbalanced**.
 
 ## Pressure
 
