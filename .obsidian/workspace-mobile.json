@@ -11,16 +11,25 @@
             "id": "ea9d291e9abc5c1a",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6346cf9c65fea208",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_Daily Notes/2023-07-15.md",
+                "file": "_Daily Notes/2023-07-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Daily Notes/2023-07-15.md",
+            "file": "_Daily Notes/2023-07-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Daily Notes/2023-07-15.md",
+            "file": "_Daily Notes/2023-07-16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Daily Notes/2023-07-15.md"
+            "file": "_Daily Notes/2023-07-16.md"
           }
         }
       }
@@ -140,25 +149,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea9d291e9abc5c1a",
+  "active": "47b983ac1df5815c",
   "lastOpenFiles": [
-    "_Daily Notes/2023-07-14.sync-conflict-20230715-083631-C2WAIFI.md",
+    "speed.md",
+    "Notes/Vim/WORD.md",
+    "_Daily Notes/2023-07-16.md",
+    "_Daily Notes/2023-07-15.md",
+    "_Daily Notes/2023-07-11.md",
     "_Daily Notes/2023-07-12.md",
     "_Daily Notes/2023-07-13.md",
     "_Daily Notes/2023-07-14.md",
-    "_Daily Notes/2023-07-15.md",
+    "Notes/Vim/Normal Mode.md",
+    "Notes/Vim/Insert Mode.md",
+    "Notes/Vim/Visual Mode.md",
+    "Notes/Vim/Vim Modes.md",
+    "Notes/Vim/Vim.md",
+    "Notes/Vim",
+    "Notes/Learning/Note Taking/Taking Conceptual Notes.md",
+    "Notes/Learning/Note Taking/Note Taking.md",
+    "Notes/Learning/Note Taking/Conceptual Notes.md",
+    "Notes/Learning/Note Taking/First Principles Thinking.md",
+    "Notes/Learning/How I Only Studied 2 hours a Day in Medical School.md",
+    "Notes/Learning/Learning.md",
+    "Notes/Learning/Note Taking",
+    "Notes/Learning",
+    "_Daily Notes/2023-07-14.sync-conflict-20230715-083631-C2WAIFI.md",
     "_Daily Notes/Daily Notes.md",
     "_Daily Notes/2023-07-13.sync-conflict-20230714-110508-C2WAIFI.md",
-    "_Daily Notes/2023-07-11.md",
     "_Daily Notes/2022-11-06.md",
     "_Daily Notes/2022-11-26.md",
     "Business/Innovation.md",
-    "Business/Change Management.md",
-    "Business/Total Quality Management.md",
-    "Business/Kaizen.md",
-    "Business/Quality Management.md",
-    "Business/Quality Control.md",
-    "Business/Quality Circles.md",
-    "Business/Quality Assurance.md"
+    "Business/Change Management.md"
   ]
 }

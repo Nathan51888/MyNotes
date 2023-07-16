@@ -1,5 +1,6 @@
+# Business
+
 [[Business Model]]
-![[Business Model Graph.png]]
 [[Change Management]]
 [[Innovation]]
 [[Invention]]

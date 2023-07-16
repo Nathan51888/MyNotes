@@ -2,7 +2,12 @@
   "customFolder": "Day Planners",
   "mode": 1,
   "mermaid": false,
-  "notesToDates": [],
+  "notesToDates": [
+    {
+      "notePath": "_Daily Notes/2023-07-12.md",
+      "date": "Sat Jul 15 2023"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": true,
   "nowAndNextInStatusBar": true,

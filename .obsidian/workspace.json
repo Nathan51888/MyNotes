@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "671773b98aa07987",
+        "id": "3aff70c59984b9a5",
         "type": "tabs",
         "children": [
           {
-            "id": "cd20f16541121e79",
+            "id": "1bf083b1510c675f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "_Daily Notes/2022-08-15.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -151,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,45 +160,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd20f16541121e79",
+  "active": "35b05c89497dea5a",
   "lastOpenFiles": [
-    "Notes/Learning/Note Taking/Taking Conceptual Notes.md",
-    "Notes/Learning/Note Taking/First Principles Thinking.md",
-    "Note Taking.md",
-    "Notes/Learning/Note Taking/Conceptual Notes.md",
-    "Notes/Learning/How I Only Studied 2 hours a Day in Medical School.md",
-    "Learning.md",
-    "Notes/Business/Business Model.md",
-    "Notes/Business/Business Model Graph.png",
-    "Notes/Business/Invention.md",
-    "Notes/Business/Change Management.md",
-    "Notes/Business/Innovation.md",
-    "Notes/Business/Business.md",
-    "Notes/Cooking/How smoke preserves food.md",
-    "Notes/Cooking/Salt Curing.md",
-    "Notes/Learning",
-    "Notes/Philosophy/David Goggins Can't hurt me.md",
-    "_Daily Notes/Daily Notes.md",
-    "_Daily Notes/2023-07-15.md",
-    "_Daily Notes/2023-07-14.md",
-    "_Daily Notes/2023-07-14.sync-conflict-20230715-083631-C2WAIFI.md",
-    "_Daily Notes/2023-07-13.md",
-    "_Daily Notes/2023-07-13.sync-conflict-20230714-110508-C2WAIFI.md",
-    "_Daily Notes/2023-07-12.md",
-    "Notes/Music Theory",
-    "Notes/Gardening",
-    "Notes/Cooking/Smoke Curing.md",
     "Untitled.canvas",
-    "Notes/Web Development/CSS.md",
-    "Notes/Web Development/Java Script.md",
-    "Notes/Web Development/HTML.md",
-    "Notes/Philosophy",
-    "Notes/Cooking",
-    "Notes/Physics/Forces.md",
-    "Notes/Physics",
-    "Notes/Web Development",
-    "Notes/Fighting Games/Street Fighter 6",
-    "Notes/Fighting Games",
-    "Notes/Learning/Note Taking"
+    "Notes/Vim/Normal Mode.md",
+    "Notes/Science/Physics/Weight.md",
+    "Notes/Science/Physics/Forces Notes.md",
+    "Notes/Learning/Note Taking/Conceptual Notes.md",
+    "_Templates/School Note Template.md",
+    "_Templates/Literature Note Template.md",
+    "_Templates/Daily Note Template.md",
+    "_Daily Notes/Daily Notes.md",
+    "Notes/Cooking/Salt Curing.md",
+    "Notes/Cooking/Smoke Curing.md",
+    "Notes/Learning/Learning.md",
+    "Notes/Science/Time.md",
+    "Notes/Science/Mathematics/Area.md",
+    "Notes/Science/Mathematics",
+    "Notes/Science/Mathmetics",
+    "Notes/Science/Physics/Forces.md",
+    "Notes/Science/Physics/Force.md",
+    "Notes/Science/Physics/Pressure.md",
+    "Notes/Science/Physics/Acceleration.md",
+    "_Daily Notes/2023-07-16.md",
+    "Notes/Philosophy/Can't Hurt Me.md",
+    "Notes/Philosophy/David Goggins Can't hurt me.md",
+    "Notes/People/David Goggins.md",
+    "Notes/People/Isaac Newton.md",
+    "Notes/People",
+    "Notes/Science/Physics/Laws of Physics.md",
+    "Notes/Science/Physics/Mass.md",
+    "Notes/Science/Physics/Net force.md",
+    "Notes/Business/Business Model Graph.png",
+    "_Daily Notes/~syncthing~2023-07-16.sync-conflict-20230716-095104-EQA777N.md.tmp",
+    "_Daily Notes/~syncthing~2023-07-16.md.tmp",
+    "_Daily Notes/~syncthing~2023-07-14.md.tmp",
+    "_Daily Notes/~syncthing~2023-07-13.md.tmp",
+    "Notes/Vim/~syncthing~Normal Mode.md.tmp",
+    "_Daily Notes/~syncthing~2023-07-11.md.tmp",
+    "_Daily Notes/~syncthing~2023-07-12.md.tmp"
   ]
 }
