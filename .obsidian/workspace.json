@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "731cecf25e8dcfa5",
+        "id": "345abfbcbe83aadc",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2f6f1a7ca136bb",
+            "id": "a60fd83f22ce7aab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/Daily Note Template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/Daily Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Templates/Daily Note Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,14 +128,7 @@
               "type": "git-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "b505aeb20c32ddfe",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "5eb9ae38f692872f",
             "type": "leaf",
@@ -153,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,40 +156,40 @@
   },
   "active": "35b05c89497dea5a",
   "lastOpenFiles": [
-    "_Templates/Literature Note Template.md",
-    "_Templates/School Note Template.md",
-    "_Templates/Daily Note Template.md",
-    "_Daily Notes/Daily Notes.md",
-    "_Daily Notes/My Regrets and Aspirations.md",
-    "_Daily Notes/2023-07-17.md",
-    "_Daily Notes/2023-07-16.md",
-    "_Daily Notes/2023-07-14.md",
-    "_Daily Notes/2023-07-15.md",
-    "_Daily Notes/2023-07-13.md",
-    "_Daily Notes/2023-07-12.md",
-    "_Daily Notes/2023-07-11.md",
-    "_Daily Notes/2023-07-17.sync-conflict-20230717-192726-C2WAIFI.md",
+    "Zettelkasten.md",
+    "Organized Notes/Philosophy/David Goggins Can't hurt me.md",
+    "Organized Notes/Fighting Games/Street Fighter 6/Street Fighter 6.md",
+    "Organized Notes/Fighting Games/Street Fighter 6/Jamie.md",
+    "Organized Notes/Philosophy/Stoic.md",
+    "Time.md",
+    "Organized Notes/Philosophy/Stoicism.md",
+    "Diet.md",
+    "Organized Notes/Business/Business.md",
+    "Organized Notes/Business/Business Model.md",
+    "Organized Notes/Business/Business Model Graph.png",
+    "Organized Notes/Business/Change Management.md",
+    "Organized Notes/Business/Entrepreneurship.md",
+    "Organized Notes/Business/Invention.md",
+    "Organized Notes/Business/Innovation.md",
+    "Organized Notes/Business/Kaizen.md",
+    "Organized Notes/Business/Quality Assurance.md",
+    "Organized Notes/Business/Quality Circles.md",
+    "Organized Notes/Business/Quality Control.md",
+    "Organized Notes/Business/Quality Management.md",
+    "Organized Notes/Business/Total Quality Management.md",
+    "Organized Notes/People/David Goggins.md",
+    "Gym.md",
+    "Self Improvement.md",
+    "Task Management.md",
+    "Time Management.md",
+    "Organized Notes/People/Isaac Newton.md",
     "_Daily Notes/~syncthing~2023-07-17.md.tmp",
     "_Daily Notes/~syncthing~My Regrets and Aspirations.md.tmp",
-    "Notes/Fighting Games/Street Fighter 6/Jamie.md",
-    "Notes/Web Development/CSS.md",
-    "Notes/Web Development/HTML.md",
-    "Notes/Web Development/Java Script.md",
     "Notes/Untitled",
     "Untitled.canvas",
-    "Notes/Vim/Normal Mode.md",
-    "Notes/Science/Physics/Weight.md",
-    "Notes/Science/Physics/Forces Notes.md",
-    "Notes/Learning/Note Taking/Conceptual Notes.md",
-    "Notes/Cooking/Salt Curing.md",
-    "Notes/Cooking/Smoke Curing.md",
-    "Notes/Learning/Learning.md",
-    "Notes/Science/Time.md",
-    "Notes/Science/Mathematics/Area.md",
-    "Notes/Science/Mathematics",
+    "Organized Notes/Science/Mathematics",
     "Notes/Science/Mathmetics",
-    "Notes/People",
-    "Notes/Business/Business Model Graph.png",
+    "Organized Notes/People",
     "_Daily Notes/~syncthing~2023-07-16.sync-conflict-20230716-095104-EQA777N.md.tmp",
     "_Daily Notes/~syncthing~2023-07-16.md.tmp",
     "_Daily Notes/~syncthing~2023-07-14.md.tmp",
