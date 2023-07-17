@@ -4,16 +4,16 @@
 -Productivity: 
 -Sleep/Wake-up-time: 
 
-Highlight of The Day: 
+#### Highlight of The Day: 
 
 
-I am Grateful For: 
+#### I am Grateful For: 
 
 
-To-Dos:
+#### To-Dos:
 - [ ] 
 
-Morning Brain Dump:
+#### Morning Brain Dump:
 
 
-Reflection:
+#### Reflection:

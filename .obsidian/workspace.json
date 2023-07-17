@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3aff70c59984b9a5",
+        "id": "731cecf25e8dcfa5",
         "type": "tabs",
         "children": [
           {
-            "id": "1bf083b1510c675f",
+            "id": "4c2f6f1a7ca136bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Daily Note Template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Templates/Daily Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Templates/Daily Note Template.md"
+              }
             }
           },
           {
@@ -162,15 +171,31 @@
   },
   "active": "35b05c89497dea5a",
   "lastOpenFiles": [
+    "_Templates/Literature Note Template.md",
+    "_Templates/School Note Template.md",
+    "_Templates/Daily Note Template.md",
+    "_Daily Notes/Daily Notes.md",
+    "_Daily Notes/My Regrets and Aspirations.md",
+    "_Daily Notes/2023-07-17.md",
+    "_Daily Notes/2023-07-16.md",
+    "_Daily Notes/2023-07-14.md",
+    "_Daily Notes/2023-07-15.md",
+    "_Daily Notes/2023-07-13.md",
+    "_Daily Notes/2023-07-12.md",
+    "_Daily Notes/2023-07-11.md",
+    "_Daily Notes/2023-07-17.sync-conflict-20230717-192726-C2WAIFI.md",
+    "_Daily Notes/~syncthing~2023-07-17.md.tmp",
+    "_Daily Notes/~syncthing~My Regrets and Aspirations.md.tmp",
+    "Notes/Fighting Games/Street Fighter 6/Jamie.md",
+    "Notes/Web Development/CSS.md",
+    "Notes/Web Development/HTML.md",
+    "Notes/Web Development/Java Script.md",
+    "Notes/Untitled",
     "Untitled.canvas",
     "Notes/Vim/Normal Mode.md",
     "Notes/Science/Physics/Weight.md",
     "Notes/Science/Physics/Forces Notes.md",
     "Notes/Learning/Note Taking/Conceptual Notes.md",
-    "_Templates/School Note Template.md",
-    "_Templates/Literature Note Template.md",
-    "_Templates/Daily Note Template.md",
-    "_Daily Notes/Daily Notes.md",
     "Notes/Cooking/Salt Curing.md",
     "Notes/Cooking/Smoke Curing.md",
     "Notes/Learning/Learning.md",
@@ -178,26 +203,11 @@
     "Notes/Science/Mathematics/Area.md",
     "Notes/Science/Mathematics",
     "Notes/Science/Mathmetics",
-    "Notes/Science/Physics/Forces.md",
-    "Notes/Science/Physics/Force.md",
-    "Notes/Science/Physics/Pressure.md",
-    "Notes/Science/Physics/Acceleration.md",
-    "_Daily Notes/2023-07-16.md",
-    "Notes/Philosophy/Can't Hurt Me.md",
-    "Notes/Philosophy/David Goggins Can't hurt me.md",
-    "Notes/People/David Goggins.md",
-    "Notes/People/Isaac Newton.md",
     "Notes/People",
-    "Notes/Science/Physics/Laws of Physics.md",
-    "Notes/Science/Physics/Mass.md",
-    "Notes/Science/Physics/Net force.md",
     "Notes/Business/Business Model Graph.png",
     "_Daily Notes/~syncthing~2023-07-16.sync-conflict-20230716-095104-EQA777N.md.tmp",
     "_Daily Notes/~syncthing~2023-07-16.md.tmp",
     "_Daily Notes/~syncthing~2023-07-14.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-13.md.tmp",
-    "Notes/Vim/~syncthing~Normal Mode.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-11.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-12.md.tmp"
+    "_Daily Notes/~syncthing~2023-07-13.md.tmp"
   ]
 }

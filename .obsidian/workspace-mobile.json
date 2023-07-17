@@ -11,8 +11,13 @@
             "id": "ea9d291e9abc5c1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Daily Notes/My Regrets and Aspirations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           },
           {
@@ -28,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Daily Notes/2023-07-16.md",
+            "file": "_Daily Notes/My Regrets and Aspirations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Daily Notes/2023-07-16.md",
+            "file": "_Daily Notes/My Regrets and Aspirations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Daily Notes/2023-07-16.md"
+            "file": "_Daily Notes/My Regrets and Aspirations.md"
           }
         }
       }
@@ -151,9 +155,12 @@
   },
   "active": "47b983ac1df5815c",
   "lastOpenFiles": [
+    "_Daily Notes/2023-07-17.md",
+    "_Daily Notes/Daily Notes.md",
+    "_Daily Notes/2023-07-16.md",
+    "_Daily Notes/My Regrets and Aspirations.md",
     "speed.md",
     "Notes/Vim/WORD.md",
-    "_Daily Notes/2023-07-16.md",
     "_Daily Notes/2023-07-15.md",
     "_Daily Notes/2023-07-11.md",
     "_Daily Notes/2023-07-12.md",
@@ -174,11 +181,8 @@
     "Notes/Learning/Note Taking",
     "Notes/Learning",
     "_Daily Notes/2023-07-14.sync-conflict-20230715-083631-C2WAIFI.md",
-    "_Daily Notes/Daily Notes.md",
     "_Daily Notes/2023-07-13.sync-conflict-20230714-110508-C2WAIFI.md",
     "_Daily Notes/2022-11-06.md",
-    "_Daily Notes/2022-11-26.md",
-    "Business/Innovation.md",
-    "Business/Change Management.md"
+    "_Daily Notes/2022-11-26.md"
   ]
 }
