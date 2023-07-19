@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "345abfbcbe83aadc",
+        "id": "bd2e968326e66d33",
         "type": "tabs",
         "children": [
           {
-            "id": "a60fd83f22ce7aab",
+            "id": "105957d248b581d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Organized Notes/Vim/Vim Modes.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -47,7 +52,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organized Notes/Vim/Vim Modes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organized Notes/Vim/Vim Modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organized Notes/Vim/Vim Modes.md"
+              }
             }
           },
           {
@@ -154,35 +163,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35b05c89497dea5a",
+  "active": "105957d248b581d8",
   "lastOpenFiles": [
-    "Zettelkasten.md",
-    "Organized Notes/Philosophy/David Goggins Can't hurt me.md",
-    "Organized Notes/Fighting Games/Street Fighter 6/Street Fighter 6.md",
-    "Organized Notes/Fighting Games/Street Fighter 6/Jamie.md",
-    "Organized Notes/Philosophy/Stoic.md",
-    "Time.md",
-    "Organized Notes/Philosophy/Stoicism.md",
-    "Diet.md",
-    "Organized Notes/Business/Business.md",
-    "Organized Notes/Business/Business Model.md",
-    "Organized Notes/Business/Business Model Graph.png",
-    "Organized Notes/Business/Change Management.md",
-    "Organized Notes/Business/Entrepreneurship.md",
-    "Organized Notes/Business/Invention.md",
-    "Organized Notes/Business/Innovation.md",
-    "Organized Notes/Business/Kaizen.md",
-    "Organized Notes/Business/Quality Assurance.md",
-    "Organized Notes/Business/Quality Circles.md",
-    "Organized Notes/Business/Quality Control.md",
-    "Organized Notes/Business/Quality Management.md",
-    "Organized Notes/Business/Total Quality Management.md",
-    "Organized Notes/People/David Goggins.md",
-    "Gym.md",
-    "Self Improvement.md",
-    "Task Management.md",
+    "Organized Notes/Vim/Visual Mode.md",
+    "Organized Notes/Vim/Vim Modes.md",
+    "Organized Notes/Vim/Normal Mode.md",
+    "Normal Mode Motions.md",
+    "Normal Mode Commands.md",
+    "Organized Notes/Vim/Insert Mode.md",
+    "Organized Notes/Vim/Vim.md",
+    "_Daily Notes/2023-07-19.md",
     "Time Management.md",
-    "Organized Notes/People/Isaac Newton.md",
+    "Time.md",
+    "Task Management.md",
+    "Self Improvement.md",
+    "Neuron.md",
+    "Organized Notes/Learning/Note Taking/Zettelkasten.md",
+    "Organized Notes/Learning/Note Taking/Note Taking.md",
+    "Organized Notes/Learning/Note Taking/First Principles Thinking.md",
+    "Organized Notes/Learning/Note Taking/Conceptual Notes.md",
+    "Organized Notes/Video Notes/How I Only Studied 2 hours a Day in Medical School.md",
+    "Organized Notes/Video Notes/Taking Conceptual Notes.md",
+    "Organized Notes/Video Notes/How Caffeine Affects Exercise & Athletic Performance.md",
+    "Organized Notes/Video Notes",
+    "Adenosine Receptors.md",
+    "Adenosine.md",
+    "Axon.md",
+    "_Daily Notes/Daily Notes.md",
+    "_Daily Notes/My Regrets and Aspirations.md",
+    "Caffeine.md",
+    "_Daily Notes/~syncthing~2023-07-18.sync-conflict-20230719-002948-EQA777N.md.tmp",
+    "Organized Notes/Business/Business Model Graph.png",
     "_Daily Notes/~syncthing~2023-07-17.md.tmp",
     "_Daily Notes/~syncthing~My Regrets and Aspirations.md.tmp",
     "Notes/Untitled",
@@ -191,8 +202,6 @@
     "Notes/Science/Mathmetics",
     "Organized Notes/People",
     "_Daily Notes/~syncthing~2023-07-16.sync-conflict-20230716-095104-EQA777N.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-16.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-14.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-13.md.tmp"
+    "_Daily Notes/~syncthing~2023-07-16.md.tmp"
   ]
 }

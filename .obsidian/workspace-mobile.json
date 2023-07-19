@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Daily Notes/My Regrets and Aspirations.md",
+                "file": "_Daily Notes/2023-07-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Daily Notes/My Regrets and Aspirations.md",
+            "file": "_Daily Notes/2023-07-19.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Daily Notes/My Regrets and Aspirations.md",
+            "file": "_Daily Notes/2023-07-19.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Daily Notes/My Regrets and Aspirations.md"
+            "file": "_Daily Notes/2023-07-19.md"
           }
         }
       }
@@ -153,11 +153,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47b983ac1df5815c",
+  "active": "ea9d291e9abc5c1a",
   "lastOpenFiles": [
+    "Adenosine Receptors.md",
+    "Axon.md",
+    "Neuron.md",
+    "Adenosine.md",
+    "Caffeine.md",
+    "How Caffeine Affects Exercise & Athletic Performance.md",
+    "Organized Notes/Learning/Note Taking/Zettelkasten.md",
+    "Organized Notes/Cooking/Diet.md",
+    "Organized Notes/Cooking/Pappardelle.md",
+    "Organized Notes/Cooking/Fresh Pasta.md",
+    "Organized Notes/Cooking/Ragu Alla Bolognese.md",
+    "Organized Notes/Cooking/Shrimp Scampi.md",
     "_Daily Notes/2023-07-17.md",
-    "_Daily Notes/Daily Notes.md",
     "_Daily Notes/2023-07-16.md",
+    "_Daily Notes/2023-07-18.md",
+    "_Daily Notes/Daily Notes.md",
     "_Daily Notes/My Regrets and Aspirations.md",
     "speed.md",
     "Notes/Vim/WORD.md",
@@ -168,21 +181,8 @@
     "_Daily Notes/2023-07-14.md",
     "Notes/Vim/Normal Mode.md",
     "Notes/Vim/Insert Mode.md",
-    "Notes/Vim/Visual Mode.md",
-    "Notes/Vim/Vim Modes.md",
-    "Notes/Vim/Vim.md",
     "Notes/Vim",
-    "Notes/Learning/Note Taking/Taking Conceptual Notes.md",
-    "Notes/Learning/Note Taking/Note Taking.md",
-    "Notes/Learning/Note Taking/Conceptual Notes.md",
-    "Notes/Learning/Note Taking/First Principles Thinking.md",
-    "Notes/Learning/How I Only Studied 2 hours a Day in Medical School.md",
-    "Notes/Learning/Learning.md",
     "Notes/Learning/Note Taking",
-    "Notes/Learning",
-    "_Daily Notes/2023-07-14.sync-conflict-20230715-083631-C2WAIFI.md",
-    "_Daily Notes/2023-07-13.sync-conflict-20230714-110508-C2WAIFI.md",
-    "_Daily Notes/2022-11-06.md",
-    "_Daily Notes/2022-11-26.md"
+    "Notes/Learning"
   ]
 }
