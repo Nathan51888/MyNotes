@@ -1,14 +1,14 @@
-A list of healthy habits that I'm trying to focus on:
+A list of healthy habits that I'm trying to focus on maintaining:
 
-### Going to [[Gym]] on a regular basis
+- ## Going to [[Gym]] on a regular basis
 
-### Doing [[Brain Training]] daily
+- ## Doing [[Brain Training]] daily
 
-### Practice movement skills
+- ## Practice movement skills
 
-### Read books daily
+- ## Read books daily
 
-### Take cold shower every morning
+- ## Take cold shower every morning
 
 
 

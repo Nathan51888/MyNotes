@@ -23,27 +23,5 @@ https://www.youtube.com/watch?v=QALxEt6OFpc
 > - [[Hydrogen]]
 > - [[Oxygen]]
 
-### Primary Nutrients
 
-Nitrogen
-Phosphorus
-Potassium
-
-### Secondary Nutrients
-
-Calcium
-Magnesium
-Sulfur
-Chlorine
-Copper
-Manganese
-Iron
-
-### Trace Elements
-
-Boron
-Molybdenum
-Zinc
-Carbon
-Hydrogen
-Oxygen
+## [[Plant Nutrient Deficiency]]

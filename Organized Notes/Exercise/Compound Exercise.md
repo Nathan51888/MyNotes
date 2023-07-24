@@ -1,3 +1,5 @@
+# Compound Exercise
+
 Exercises that involves more than one muscle group.
 
 List of Compound Exercises:

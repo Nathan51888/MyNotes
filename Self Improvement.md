@@ -1,7 +1,7 @@
 # Self Improvement
 
 A list of beneficial habits:
-- [[Gym]] [[Resistance Training]]
+- [[Gym]]
 - [[Task Management]]
 - [[Entrepreneurship]]
 - [[Time Management]]
