@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2e968326e66d33",
+        "id": "1b47a50bdde4e428",
         "type": "tabs",
         "children": [
           {
-            "id": "105957d248b581d8",
+            "id": "e5b54d936d90f877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organized Notes/Vim/Vim Modes.md",
+                "file": "Organized Notes/Learning/Brain Training.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6f25d142e929398b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organized Notes/Notes/Forces Notes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,6 +93,7 @@
       {
         "id": "55e79029c45c00b6",
         "type": "tabs",
+        "dimension": 68.29477292202229,
         "children": [
           {
             "id": "be59dab9d294a552",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organized Notes/Vim/Vim Modes.md",
+                "file": "Organized Notes/Notes/Forces Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organized Notes/Vim/Vim Modes.md",
+                "file": "Organized Notes/Notes/Forces Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,13 +136,11 @@
             }
           },
           {
-            "id": "c31834c465e9711d",
+            "id": "5eb9ae38f692872f",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Organized Notes/Vim/Vim Modes.md"
-              }
+              "type": "timeline",
+              "state": {}
             }
           },
           {
@@ -137,17 +150,26 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "5eb9ae38f692872f",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "9dcfb4e9eaf90b56",
+        "type": "tabs",
+        "dimension": 31.705227077977714,
+        "children": [
+          {
+            "id": "c31834c465e9711d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Organized Notes/Notes/Forces Notes.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,45 +185,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "105957d248b581d8",
+  "active": "35b05c89497dea5a",
   "lastOpenFiles": [
-    "Organized Notes/Vim/Visual Mode.md",
-    "Organized Notes/Vim/Vim Modes.md",
-    "Organized Notes/Vim/Normal Mode.md",
-    "Normal Mode Motions.md",
-    "Normal Mode Commands.md",
-    "Organized Notes/Vim/Insert Mode.md",
-    "Organized Notes/Vim/Vim.md",
-    "_Daily Notes/2023-07-19.md",
-    "Time Management.md",
-    "Time.md",
-    "Task Management.md",
+    "Organized Notes/Science/Physics/Motion.md",
+    "Organized Notes/Science/Physics/Matter.md",
+    "Organized Notes/Notes/Forces Notes.md",
+    "Organized Notes/Science/Physics/Forces.md",
+    "Organized Notes/Science/Physics/Force.md",
+    "Organized Notes/Notes/Taking Conceptual Notes.md",
+    "Organized Notes/Notes/How I Only Studied 2 hours a Day in Medical School.md",
+    "Organized Notes/Notes/How Caffeine Affects Exercise & Athletic Performance.md",
+    "Organized Notes/Learning/Brain Training.md",
+    "List of healthy habits to focus on.md",
     "Self Improvement.md",
-    "Neuron.md",
-    "Organized Notes/Learning/Note Taking/Zettelkasten.md",
-    "Organized Notes/Learning/Note Taking/Note Taking.md",
-    "Organized Notes/Learning/Note Taking/First Principles Thinking.md",
-    "Organized Notes/Learning/Note Taking/Conceptual Notes.md",
-    "Organized Notes/Video Notes/How I Only Studied 2 hours a Day in Medical School.md",
-    "Organized Notes/Video Notes/Taking Conceptual Notes.md",
-    "Organized Notes/Video Notes/How Caffeine Affects Exercise & Athletic Performance.md",
-    "Organized Notes/Video Notes",
-    "Adenosine Receptors.md",
-    "Adenosine.md",
-    "Axon.md",
-    "_Daily Notes/Daily Notes.md",
-    "_Daily Notes/My Regrets and Aspirations.md",
-    "Caffeine.md",
+    "Organized Notes/Cooking/Fresh Pasta.md",
+    "Organized Notes/Science/Time.md",
+    "Organized Notes/Productivity/Task Management.md",
+    "Organized Notes/Productivity/Time Management.md",
+    "Organized Notes/Productivity",
+    "Organized Notes/Science/Biology",
+    "Organized Notes/Exercise",
+    "Organized Notes/Science/Chemistry/Periotic Table.md",
+    "Organized Notes/Science/Chemistry/Nitrogen.md",
+    "Organized Notes/Science/Chemistry/Potassium.md",
+    "Organized Notes/Science/Chemistry/PeriodicTableMuted2018.png",
+    "Organized Notes/Science/Chemistry/periodic-table.pdf",
+    "Organized Notes/Science/Chemistry/periodic-table.svg",
+    "Organized Notes/Business/Business Model.md",
+    "Untitled.md",
+    "Organized Notes/Science/Chemistry",
+    "Organized Notes/Learning/Ambidexterity training.md",
+    "Organized Notes/Gardening/Fertilizer.md",
+    "Organized Notes/Learning/Breathing Meditation.md",
+    "Organized Notes/Gardening/N-P-K.md",
+    "Organized Notes/Exercise/Gym.md",
+    "Organized Notes/Exercise/Cardiovascular Endurance.md",
+    "Organized Notes/Notes",
     "_Daily Notes/~syncthing~2023-07-18.sync-conflict-20230719-002948-EQA777N.md.tmp",
     "Organized Notes/Business/Business Model Graph.png",
     "_Daily Notes/~syncthing~2023-07-17.md.tmp",
     "_Daily Notes/~syncthing~My Regrets and Aspirations.md.tmp",
     "Notes/Untitled",
-    "Untitled.canvas",
-    "Organized Notes/Science/Mathematics",
-    "Notes/Science/Mathmetics",
-    "Organized Notes/People",
-    "_Daily Notes/~syncthing~2023-07-16.sync-conflict-20230716-095104-EQA777N.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-16.md.tmp"
+    "Untitled.canvas"
   ]
 }

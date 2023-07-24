@@ -1,6 +1,6 @@
 {
   "template": "_Templates/Daily Note Template",
-  "autorun": true,
+  "autorun": false,
   "folder": "_Daily Notes",
   "format": ""
 }

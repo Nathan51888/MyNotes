@@ -8,26 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea9d291e9abc5c1a",
+            "id": "7a1e34e894fec902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Daily Notes/2023-07-19.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6346cf9c65fea208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Daily Notes/2023-07-16.md",
-                "mode": "source",
+                "file": "Resistance Training.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -79,14 +66,6 @@
         }
       },
       {
-        "id": "4bd4260668ab563d",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
         "id": "ce00aa502dcd2aef",
         "type": "leaf",
         "state": {
@@ -107,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Daily Notes/2023-07-19.md",
+            "file": "Resistance Training.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Daily Notes/2023-07-19.md",
+            "file": "Resistance Training.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Daily Notes/2023-07-19.md"
+            "file": "Resistance Training.md"
           }
         }
       }
@@ -153,34 +132,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea9d291e9abc5c1a",
+  "active": "7a1e34e894fec902",
   "lastOpenFiles": [
-    "Adenosine Receptors.md",
-    "Axon.md",
-    "Neuron.md",
-    "Adenosine.md",
-    "Caffeine.md",
-    "How Caffeine Affects Exercise & Athletic Performance.md",
-    "Organized Notes/Learning/Note Taking/Zettelkasten.md",
-    "Organized Notes/Cooking/Diet.md",
-    "Organized Notes/Cooking/Pappardelle.md",
-    "Organized Notes/Cooking/Fresh Pasta.md",
-    "Organized Notes/Cooking/Ragu Alla Bolognese.md",
-    "Organized Notes/Cooking/Shrimp Scampi.md",
-    "_Daily Notes/2023-07-17.md",
-    "_Daily Notes/2023-07-16.md",
-    "_Daily Notes/2023-07-18.md",
-    "_Daily Notes/Daily Notes.md",
-    "_Daily Notes/My Regrets and Aspirations.md",
-    "speed.md",
-    "Notes/Vim/WORD.md",
-    "_Daily Notes/2023-07-15.md",
-    "_Daily Notes/2023-07-11.md",
+    "Stamina.md",
+    "Cardio.md",
+    "Cardiovascular Endurance.md",
+    "Resistance Training.md",
+    "Compound Exercise.md",
+    "Isolated Exercise.md",
+    "Strength.md",
+    "stamina.md",
+    "Untitled 1.md",
+    "_Daily Notes/2023-07-24.md",
+    "Untitled.md",
+    "Progressive Overload.md",
+    "Self Improvement.md",
+    "Time Management.md",
+    "Time.md",
+    "Brain Training.md",
+    "_Daily Notes/2023-07-23.md",
     "_Daily Notes/2023-07-12.md",
-    "_Daily Notes/2023-07-13.md",
-    "_Daily Notes/2023-07-14.md",
-    "Notes/Vim/Normal Mode.md",
-    "Notes/Vim/Insert Mode.md",
+    "Meditation.md",
+    "Breathing Meditation.md",
+    "Working memory.md",
+    "List of healthy habits to focus on.md",
+    "CBT.md",
+    "Creativity.md",
+    "Focus.md",
+    "_Daily Notes/2023-07-16.md",
     "Notes/Vim",
     "Notes/Learning/Note Taking",
     "Notes/Learning"

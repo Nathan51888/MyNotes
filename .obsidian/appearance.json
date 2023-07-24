@@ -2,7 +2,8 @@
   "translucency": false,
   "theme": "system",
   "cssTheme": "Blue Topaz",
-  "baseFontSize": 19,
+  "baseFontSize": 16,
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }
