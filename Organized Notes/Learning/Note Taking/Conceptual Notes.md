@@ -1,4 +1,4 @@
-# [[Conceptual Notes]]
+# Conceptual Notes
 
 ## Taking Notes
 - Try to actively listen to the material and separate them into concepts 
@@ -21,7 +21,7 @@
 
 ## Linking
 - Prevents limiting your thinking based on "disciplines"
-- Encourages **invention**, rather than *regurgitation*
+- Encourages **[[invention]]**, rather than *regurgitation*
 - Inspires new ideas by having a unique connection
 - Your notes are linked in a way that make sense to *you*
 

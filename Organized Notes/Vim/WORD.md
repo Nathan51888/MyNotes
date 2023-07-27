@@ -1,4 +1,4 @@
-# [[WORD]]
+# WORD in [[Vim]]
 
 A *word* in [[Vim]] is either:
 - A sequence of letters, digits and numbers

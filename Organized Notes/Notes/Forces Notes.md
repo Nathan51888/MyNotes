@@ -1,5 +1,5 @@
 # Forces
-Subject/Topics: #Physics #Forces #Notes
+Subject/Topics: #Physics #Notes
 Date: 15/10/2020
 
 ---

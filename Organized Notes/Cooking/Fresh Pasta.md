@@ -1,3 +1,4 @@
 # Fresh Pasta
 
 [[Pappardelle]]
+[[Tagliatelle]]

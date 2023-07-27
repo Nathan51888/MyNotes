@@ -1,22 +1,14 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Organized Notes/Notes\"",
-      "color": {
-        "a": 1,
-        "rgb": 5855577
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1.00095289222923,
   "lineSizeMultiplier": 1,
@@ -25,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.817086448738689,
+  "scale": 0.6740533999923164,
   "close": true
 }

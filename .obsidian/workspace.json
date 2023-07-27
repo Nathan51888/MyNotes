@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3c08dae8fe8a1f62",
+        "id": "540be4945030d227",
         "type": "tabs",
         "children": [
           {
-            "id": "1013571adaee4a9f",
+            "id": "f5b4b337cdd5d4c7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Organized Notes/Exercise/Compound Exercise.md",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -47,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#science",
+                "query": "tag:#Cooking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,33 +77,6 @@
         "dimension": 68.29477292202229,
         "children": [
           {
-            "id": "be59dab9d294a552",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d3774ab9f8ab66aa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "51a727ff4d103d76",
             "type": "leaf",
             "state": {
@@ -134,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "9dcfb4e9eaf90b56",
@@ -147,6 +117,33 @@
             "state": {
               "type": "outline",
               "state": {}
+            }
+          },
+          {
+            "id": "be59dab9d294a552",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3774ab9f8ab66aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -165,53 +162,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1013571adaee4a9f",
+  "active": "f5b4b337cdd5d4c7",
   "lastOpenFiles": [
-    "Organized Notes/Gardening/Plant Nutrient Deficiency.md",
-    "Pasted image 20230724203704.png",
-    "Pasted image 20230724203659.png",
-    "Pasted image 20230724203652.png",
-    "Pasted image 20230724203644.png",
-    "Pasted image 20230724203638.png",
-    "Pasted image 20230724203631.png",
-    "Pasted image 20230724203625.png",
-    "Pasted image 20230724203414.png",
-    "Pasted image 20230724203346.png",
-    "Pasted image 20230724203335.png",
-    "Organized Notes/Science/Chemistry/Phosphorus.md",
-    "Organized Notes/Science/Chemistry/Periotic Table.md",
-    "Organized Notes/Science/Physics/Forces.md",
-    "Organized Notes/Science/Physics/Force.md",
-    "Organized Notes/Gardening/Fertilizer.md",
-    "Organized Notes/Exercise/Resistance Training.md",
-    "Organized Notes/Exercise/Strength.md",
-    "Organized Notes/Gardening/N-P-K.md",
-    "Self Improvement.md",
-    "Organized Notes/Exercise/Progressive Overload.md",
-    "Organized Notes/Exercise/Isolated Exercise.md",
-    "Organized Notes/Exercise/Compound Exercise.md",
-    "Organized Notes/Exercise/Stamina.md",
-    "List of healthy habits to focus on.md",
-    "Organized Notes/Notes/Forces Notes.md",
-    "Organized Notes/Science/Physics/Motion.md",
-    "Organized Notes/Science/Physics/Matter.md",
-    "Organized Notes/Notes/Taking Conceptual Notes.md",
-    "Organized Notes/Notes/How I Only Studied 2 hours a Day in Medical School.md",
-    "Organized Notes/Notes/How Caffeine Affects Exercise & Athletic Performance.md",
-    "Organized Notes/Learning/Brain Training.md",
+    "Organized Notes/Vim/Text Objects.md",
+    "Organized Notes/Vim/Normal Mode Operators.md",
+    "Organized Notes/Vim/Normal Mode Counts.md",
+    "Organized Notes/Vim/Normal Mode.md",
+    "Organized Notes/Vim/Normal Mode Motions.md",
+    "Organized Notes/Vim/Visual Mode.md",
+    "Organized Notes/Vim/Vim Modes.md",
+    "Organized Notes/Vim/Insert Mode.md",
+    "Organized Notes/Vim/WORD.md",
+    "Organized Notes/Vim/Vim.md",
+    "_Daily Notes/2023-07-27.md",
+    "Organized Notes%2FVim%2FNormal Mode Operators.md",
+    "operators.md",
+    "Organized Notes/Cooking/Ragu Alla Bolognese.md",
+    "Organized Notes/Cooking/Shrimp Scampi.md",
+    "Organized Notes/Cooking/How smoke preserves food.md",
     "Organized Notes/Cooking/Fresh Pasta.md",
-    "Organized Notes/Science/Time.md",
-    "Organized Notes/Productivity/Task Management.md",
+    "Organized Notes/Vim/Pasted image 20230727130259.jpg",
+    "Organized Notes/Notes/How Caffeine Affects Exercise & Athletic Performance.md",
+    "_Daily Notes/2023-07-19.md",
+    "List of healthy habits to focus on.md",
+    "_Daily Notes/2023-07-15.md",
+    "_Daily Notes/2023-07-16.md",
+    "_Daily Notes/2023-07-17.md",
+    "_Daily Notes/2023-07-18.md",
+    "_Daily Notes/2023-07-20.md",
+    "_Daily Notes/2023-07-21.md",
+    "_Daily Notes/~syncthing~2023-07-25.md.tmp",
+    "Organized Notes/Learning/Brain Training",
+    "Organized Notes/Gardening/Plant Nutrients",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Potassium deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Nitrogen deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Iron deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Boron deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Molybdenum deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Zink deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Manganese deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Copper deficient leaves.png",
+    "Organized Notes/Gardening/Plant Nutrients/Images/Clorine deficient leaves.png",
     "Organized Notes/Productivity",
     "Organized Notes/Science/Biology",
     "Organized Notes/Exercise",
     "Organized Notes/Science/Chemistry/periodic-table.pdf",
     "Organized Notes/Science/Chemistry",
     "Organized Notes/Notes",
-    "_Daily Notes/~syncthing~2023-07-18.sync-conflict-20230719-002948-EQA777N.md.tmp",
-    "_Daily Notes/~syncthing~2023-07-17.md.tmp",
-    "_Daily Notes/~syncthing~My Regrets and Aspirations.md.tmp",
-    "Notes/Untitled",
     "Untitled.canvas"
   ]
 }

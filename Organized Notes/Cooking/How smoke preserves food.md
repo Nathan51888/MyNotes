@@ -1,10 +1,11 @@
 
 Author: Adam Ragusea
 Type: YouTube Video
-Topics: [[Smoke Curing]], [[Salt Curing]] #Cooking
+Topics: [[Smoke Curing]], [[Salt Curing]]
 Link: https://www.youtube.com/watch?v=qNrnwAKBU3Q
 
 ---
+
 - An ancient method of curing meats that dates as far back as Neolithic people smoking the animals they've hunted.
 	- Used to preserve meats historically due to its high pathogen content.
 - Better done on thin slices of food for both smoke curing and salt curing.

@@ -1,5 +1,8 @@
 A list of healthy habits that I'm trying to focus on maintaining:
 
+# Do 20 minutes of focused meditation everyday
+
+# Backlog
 - ## Going to [[Gym]] on a regular basis
 
 - ## Doing [[Brain Training]] daily
@@ -9,6 +12,5 @@ A list of healthy habits that I'm trying to focus on maintaining:
 - ## Read books daily
 
 - ## Take cold shower every morning
-
 
 
