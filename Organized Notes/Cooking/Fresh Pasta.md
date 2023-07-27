@@ -2,3 +2,6 @@
 
 [[Pappardelle]]
 [[Tagliatelle]]
+[[Farfalle]]
+[[Oreccihette]]
+[[Ravioli]]

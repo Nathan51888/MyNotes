@@ -18,3 +18,6 @@ Type text
 Selects text and edit
 
 ---
+
+## [[Command line Mode]]
+Execute commands

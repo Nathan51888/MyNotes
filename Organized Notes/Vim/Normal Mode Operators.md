@@ -1,44 +1,47 @@
 # Operators in [[Normal Mode]]
 
->[!info]- Operators
-> Operators are actions you can do in [[Normal Mode]] to edit texts and other functions. 
-> You can use operators and motions together by following any of these patterns:
-> 
-> ```text
-> {operator}{count}{motion}
-> {count}{operator}{motion}
-> ```
+**Operators are commands you can do from [[Normal Mode]] to edit texts and other functions.** 
+You can use operators and motions together by following any of these patterns:
 
-^6c8482
+```text
+{operator}{count}{motion}
+{count}{operator}{motion}
+```
 
-**Basics** ^9c455f
+
+**Basics**
 - ``.`` - repeat the last command
 - ``u`` - undo
 - ``CTRL + r`` - redo
 
-**[[Insert Mode]]**
- - ``i`` - insert before cursor
+**[[Insert Mode]]** 
+- ``i`` - insert before cursor
 	 - ``I`` - insert at beginning of line
- - ``a`` - insert after cursor
+- ``a`` - insert after cursor
 	 - ``A`` - insert at end of line
+- `o` - insert a new line below
+	- `O` - insert a new line above
+- `gi` - puts you to the last change you made while in insert mode
 
 **[[Visual Mode]]**
- - ``v`` - enter [[visual mode]]
+ - ``v`` - enter character visual mode
 	 - ``V`` - enter line visual mode
+	 - ``CTRL + v`` - enter visual block
 
 **Editing**
  - ``x`` - delete character under cursor
 	 - ``X`` - delete character before cursor
  - ``s`` - delete character under cursor and go into insert mode
- - ``r`` - replace on cursor
+ - ``r`` - replace single character on cursor
  - ``y`` - yank(copy)
+	 - `yy` - yank whole line
  - ``p`` - paste
 	 - `P` - paste before cursor
+	 - `gp`,`gP` - puts the cursor after the pasted section
  - ``d`` - delete
 	 - ``d{count}`` - delete up to line count
 	 - ``dd`` - delete line
 	 - ``D`` - delete from cursor to end of line
-
  - ``c`` - change[^1]
 	 - `cc` - changes a complete line
 	 - `C` - changes from the cursor until the end on the line
@@ -68,4 +71,4 @@
 
 
 
-[^1]: functions of ``d`` and ``i`` combined in one key press
+[^1]: ``d`` and ``i`` combined in one key press

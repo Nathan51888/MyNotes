@@ -1,6 +1,7 @@
 # Counts in [[Normal Mode ]]
 
-**Counts are numbers which let you multiply the effect of a [[Normal Mode Operators|command]]**. You can use them by prefixing any command with a count like so:
+**Counts are numbers which let you multiply the effect of a [[Normal Mode Operators|command]]**. 
+You can use them by prefixing any command with a count like so:
 
 ```text
 {count}{command}

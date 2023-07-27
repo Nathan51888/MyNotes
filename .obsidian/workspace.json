@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "540be4945030d227",
+        "id": "2951e5f2641b2fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b4b337cdd5d4c7",
+            "id": "9eb844fcd535fcba",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cooking",
+                "query": "insert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,49 +77,6 @@
         "dimension": 68.29477292202229,
         "children": [
           {
-            "id": "51a727ff4d103d76",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5eb9ae38f692872f",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "35b05c89497dea5a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "9dcfb4e9eaf90b56",
-        "type": "tabs",
-        "dimension": 31.705227077977714,
-        "children": [
-          {
-            "id": "c31834c465e9711d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "be59dab9d294a552",
             "type": "leaf",
             "state": {
@@ -145,6 +102,41 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "51a727ff4d103d76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35b05c89497dea5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9dcfb4e9eaf90b56",
+        "type": "tabs",
+        "dimension": 31.705227077977714,
+        "children": [
+          {
+            "id": "c31834c465e9711d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -162,35 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5b4b337cdd5d4c7",
+  "active": "35b05c89497dea5a",
   "lastOpenFiles": [
-    "Organized Notes/Vim/Text Objects.md",
+    "Organized Notes/Notes/How I Only Studied 2 hours a Day in Medical School.md",
+    "Organized Notes/Cooking/Fresh Pasta.md",
+    "Ravioli.md",
+    "_Daily Notes/2023-07-27.md",
+    "_Daily Notes/My Regrets and Aspirations.md",
+    "Organized Notes/Notes/Taking Conceptual Notes.md",
+    "Organized Notes/Science/Chemistry/Elements/Potassium.md",
     "Organized Notes/Vim/Normal Mode Operators.md",
+    "Organized Notes/Vim/Normal Mode Motions.md",
     "Organized Notes/Vim/Normal Mode Counts.md",
     "Organized Notes/Vim/Normal Mode.md",
-    "Organized Notes/Vim/Normal Mode Motions.md",
-    "Organized Notes/Vim/Visual Mode.md",
-    "Organized Notes/Vim/Vim Modes.md",
+    "Organized Notes/Vim/Copying and Pasting in Vim.md",
     "Organized Notes/Vim/Insert Mode.md",
-    "Organized Notes/Vim/WORD.md",
-    "Organized Notes/Vim/Vim.md",
-    "_Daily Notes/2023-07-27.md",
-    "Organized Notes%2FVim%2FNormal Mode Operators.md",
-    "operators.md",
-    "Organized Notes/Cooking/Ragu Alla Bolognese.md",
-    "Organized Notes/Cooking/Shrimp Scampi.md",
-    "Organized Notes/Cooking/How smoke preserves food.md",
-    "Organized Notes/Cooking/Fresh Pasta.md",
+    "Organized Notes/Vim/Command line Mode.md",
+    "Organized Notes/Science/Chemistry/PeriodicTableMuted2018.png",
+    "Organized Notes/Science/Chemistry/Periotic Table.md",
+    "Organized Notes/Science/Chemistry/Elements/Phosphorus.md",
+    "Organized Notes/Science/Chemistry/Elements/Sodium.md",
+    "Organized Notes/Science/Chemistry/Elements/Hydrogen.md",
+    "Organized Notes/Science/Chemistry/Elements/Lithium.md",
+    "Organized Notes/Science/Chemistry/Elements/Nitrogen.md",
+    "Organized Notes/Science/Chemistry/Elements/Oxygen.md",
+    "Organized Notes/Science/Chemistry/Elements/Neon.md",
+    "Organized Notes/Science/Chemistry/Elements/Beryllium.md",
+    "Organized Notes/Science/Chemistry/Elements/Boron.md",
+    "Organized Notes/Science/Biology/Caffeine.md",
+    "Organized Notes/Science/Chemistry/Elements/Carbon.md",
+    "Organized Notes/Science/Chemistry/Elements",
     "Organized Notes/Vim/Pasted image 20230727130259.jpg",
-    "Organized Notes/Notes/How Caffeine Affects Exercise & Athletic Performance.md",
-    "_Daily Notes/2023-07-19.md",
-    "List of healthy habits to focus on.md",
-    "_Daily Notes/2023-07-15.md",
-    "_Daily Notes/2023-07-16.md",
-    "_Daily Notes/2023-07-17.md",
-    "_Daily Notes/2023-07-18.md",
-    "_Daily Notes/2023-07-20.md",
-    "_Daily Notes/2023-07-21.md",
     "_Daily Notes/~syncthing~2023-07-25.md.tmp",
     "Organized Notes/Learning/Brain Training",
     "Organized Notes/Gardening/Plant Nutrients",
@@ -203,13 +197,11 @@
     "Organized Notes/Gardening/Plant Nutrients/Images/Zink deficient leaves.png",
     "Organized Notes/Gardening/Plant Nutrients/Images/Manganese deficient leaves.png",
     "Organized Notes/Gardening/Plant Nutrients/Images/Copper deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Clorine deficient leaves.png",
     "Organized Notes/Productivity",
     "Organized Notes/Science/Biology",
     "Organized Notes/Exercise",
     "Organized Notes/Science/Chemistry/periodic-table.pdf",
     "Organized Notes/Science/Chemistry",
-    "Organized Notes/Notes",
     "Untitled.canvas"
   ]
 }
