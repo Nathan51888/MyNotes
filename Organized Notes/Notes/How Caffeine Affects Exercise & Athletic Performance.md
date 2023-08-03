@@ -1,6 +1,6 @@
 # How Caffeine Affects Exercise & Athletic Performance
 Video source:
-https://www.youtube.com/watch?v=9V2rxSF6REI
+![](https://www.youtube.com/watch?v=9V2rxSF6REI)
 
 [[Caffeine]] does affect athletic performance by improving stamina in prolonged moderate intensity exercise and more explosive movements in high intensity exercise.
 

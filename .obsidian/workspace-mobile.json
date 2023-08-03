@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Daily Notes/2023-07-27.md",
-                "mode": "source",
+                "file": "_Daily Notes/2023-07-29.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Daily Notes/2023-07-27.md",
+            "file": "_Daily Notes/2023-07-29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Daily Notes/2023-07-27.md",
+            "file": "_Daily Notes/2023-07-29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -170,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Daily Notes/2023-07-27.md"
+            "file": "_Daily Notes/2023-07-29.md"
           }
         }
       }
@@ -187,17 +187,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47b983ac1df5815c",
+  "active": "f05a2e9811c49a9b",
   "lastOpenFiles": [
-    "_Daily Notes/2023-07-25.md",
+    "Self Improvement.md",
+    "_Daily Notes/2023-07-29.md",
+    "List of healthy habits to focus on.md",
     "_Daily Notes/2023-07-27.md",
+    "_Daily Notes/2023-07-28.md",
+    "_Daily Notes/2023-07-25.md",
     "_Daily Notes/2023-07-24.md",
     "Organized Notes/Exercise/Cardio.md",
     "Day Planner.md",
     "_Daily Notes/Daily Notes.md",
     "_Daily Notes/My Regrets and Aspirations.md",
-    "List of healthy habits to focus on.md",
-    "Self Improvement.md",
     "Stamina.md",
     "Cardio.md",
     "Cardiovascular Endurance.md",
@@ -213,8 +215,6 @@
     "Brain Training.md",
     "_Daily Notes/2023-07-23.md",
     "_Daily Notes/2023-07-12.md",
-    "Meditation.md",
-    "Breathing Meditation.md",
     "Notes/Vim",
     "Notes/Learning/Note Taking",
     "Notes/Learning"

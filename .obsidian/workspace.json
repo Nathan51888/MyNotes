@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2951e5f2641b2fdf",
+        "id": "7d762a5cfd51a502",
         "type": "tabs",
         "children": [
           {
-            "id": "9eb844fcd535fcba",
+            "id": "5dbb1f675e18bf9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "List of healthy habits to focus on.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "insert",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "List of healthy habits to focus on.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "List of healthy habits to focus on.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "List of healthy habits to focus on.md"
+              }
             }
           }
         ]
@@ -154,37 +163,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35b05c89497dea5a",
+  "active": "5dbb1f675e18bf9c",
   "lastOpenFiles": [
+    "Self Improvement.md",
+    "List of healthy habits to focus on.md",
+    "Organized Notes/Notes/UNLOCK Your HIP Strength & Mobility.md",
     "Organized Notes/Notes/How I Only Studied 2 hours a Day in Medical School.md",
-    "Organized Notes/Cooking/Fresh Pasta.md",
-    "Ravioli.md",
-    "_Daily Notes/2023-07-27.md",
-    "_Daily Notes/My Regrets and Aspirations.md",
+    "Organized Notes/Notes/How Caffeine Affects Exercise & Athletic Performance.md",
+    "Organized Notes/Vim/Insert Mode.md",
     "Organized Notes/Notes/Taking Conceptual Notes.md",
-    "Organized Notes/Science/Chemistry/Elements/Potassium.md",
+    "Organized Notes/Vim/Pasted image 20230727130259.jpg",
     "Organized Notes/Vim/Normal Mode Operators.md",
     "Organized Notes/Vim/Normal Mode Motions.md",
     "Organized Notes/Vim/Normal Mode Counts.md",
     "Organized Notes/Vim/Normal Mode.md",
-    "Organized Notes/Vim/Copying and Pasting in Vim.md",
-    "Organized Notes/Vim/Insert Mode.md",
-    "Organized Notes/Vim/Command line Mode.md",
-    "Organized Notes/Science/Chemistry/PeriodicTableMuted2018.png",
     "Organized Notes/Science/Chemistry/Periotic Table.md",
+    "Organized Notes/Science/Chemistry/PeriodicTableMuted2018.png",
+    "Organized Notes/Vim/Vim Modes.md",
+    "Organized Notes/Vim/Copying and Pasting in Vim.md",
+    "Organized Notes/Vim/Vim.md",
+    "Organized Notes/Cooking/Fresh Pasta.md",
+    "Ravioli.md",
+    "_Daily Notes/2023-07-27.md",
+    "_Daily Notes/My Regrets and Aspirations.md",
+    "Organized Notes/Science/Chemistry/Elements/Potassium.md",
+    "Organized Notes/Vim/Command line Mode.md",
     "Organized Notes/Science/Chemistry/Elements/Phosphorus.md",
     "Organized Notes/Science/Chemistry/Elements/Sodium.md",
     "Organized Notes/Science/Chemistry/Elements/Hydrogen.md",
     "Organized Notes/Science/Chemistry/Elements/Lithium.md",
     "Organized Notes/Science/Chemistry/Elements/Nitrogen.md",
-    "Organized Notes/Science/Chemistry/Elements/Oxygen.md",
-    "Organized Notes/Science/Chemistry/Elements/Neon.md",
-    "Organized Notes/Science/Chemistry/Elements/Beryllium.md",
-    "Organized Notes/Science/Chemistry/Elements/Boron.md",
-    "Organized Notes/Science/Biology/Caffeine.md",
-    "Organized Notes/Science/Chemistry/Elements/Carbon.md",
     "Organized Notes/Science/Chemistry/Elements",
-    "Organized Notes/Vim/Pasted image 20230727130259.jpg",
     "_Daily Notes/~syncthing~2023-07-25.md.tmp",
     "Organized Notes/Learning/Brain Training",
     "Organized Notes/Gardening/Plant Nutrients",
