@@ -1,3 +1,0 @@
-# CBT
-
-Cognitive Training

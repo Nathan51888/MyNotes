@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d762a5cfd51a502",
+        "id": "808df66b95733de9",
         "type": "tabs",
         "children": [
           {
-            "id": "5dbb1f675e18bf9c",
+            "id": "80ee5760a03b94d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "List of healthy habits to focus on.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of healthy habits to focus on.md",
+                "file": "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of healthy habits to focus on.md",
+                "file": "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of healthy habits to focus on.md"
+                "file": "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf"
               }
             }
           }
@@ -163,54 +160,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dbb1f675e18bf9c",
+  "active": "80ee5760a03b94d9",
   "lastOpenFiles": [
-    "Self Improvement.md",
-    "List of healthy habits to focus on.md",
-    "Organized Notes/Notes/UNLOCK Your HIP Strength & Mobility.md",
-    "Organized Notes/Notes/How I Only Studied 2 hours a Day in Medical School.md",
-    "Organized Notes/Notes/How Caffeine Affects Exercise & Athletic Performance.md",
-    "Organized Notes/Vim/Insert Mode.md",
-    "Organized Notes/Notes/Taking Conceptual Notes.md",
-    "Organized Notes/Vim/Pasted image 20230727130259.jpg",
-    "Organized Notes/Vim/Normal Mode Operators.md",
-    "Organized Notes/Vim/Normal Mode Motions.md",
-    "Organized Notes/Vim/Normal Mode Counts.md",
-    "Organized Notes/Vim/Normal Mode.md",
-    "Organized Notes/Science/Chemistry/Periotic Table.md",
-    "Organized Notes/Science/Chemistry/PeriodicTableMuted2018.png",
-    "Organized Notes/Vim/Vim Modes.md",
-    "Organized Notes/Vim/Copying and Pasting in Vim.md",
-    "Organized Notes/Vim/Vim.md",
-    "Organized Notes/Cooking/Fresh Pasta.md",
-    "Ravioli.md",
-    "_Daily Notes/2023-07-27.md",
-    "_Daily Notes/My Regrets and Aspirations.md",
-    "Organized Notes/Science/Chemistry/Elements/Potassium.md",
-    "Organized Notes/Vim/Command line Mode.md",
-    "Organized Notes/Science/Chemistry/Elements/Phosphorus.md",
-    "Organized Notes/Science/Chemistry/Elements/Sodium.md",
-    "Organized Notes/Science/Chemistry/Elements/Hydrogen.md",
-    "Organized Notes/Science/Chemistry/Elements/Lithium.md",
-    "Organized Notes/Science/Chemistry/Elements/Nitrogen.md",
-    "Organized Notes/Science/Chemistry/Elements",
-    "_Daily Notes/~syncthing~2023-07-25.md.tmp",
-    "Organized Notes/Learning/Brain Training",
-    "Organized Notes/Gardening/Plant Nutrients",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Potassium deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Nitrogen deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Iron deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Boron deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Molybdenum deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Zink deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Manganese deficient leaves.png",
-    "Organized Notes/Gardening/Plant Nutrients/Images/Copper deficient leaves.png",
-    "Organized Notes/Productivity",
-    "Organized Notes/Science/Biology",
-    "Organized Notes/Exercise",
-    "Organized Notes/Science/Chemistry/periodic-table.pdf",
-    "Organized Notes/Science/Chemistry",
+    "Concepts/Science/Chemistry/Periotic Table.md",
+    "Concepts/Programming",
+    "Concepts/Self Improvement",
+    "Concepts/Science/Chemistry/PeriodicTableMuted2018.png",
+    "Concepts/Science/Mathematics/Area.md",
+    "Concepts/Science/Mathematics/Circle Area.md",
+    "Concepts/Science/Mathematics/Square Area.md",
+    "Concepts/Science/Mathematics/Triangle Area.md",
+    "Concepts/Science/Biology/Anatomy/Gluteus Muscles.md",
+    "Concepts/Science/Biology/Anatomy/Gluteus Minimus.md",
+    "Concepts/Science/Biology/Anatomy/Gluteus Maximus.md",
+    "Concepts/Science/Biology/Anatomy",
+    "Notes/An Easy Functional Training Workout for Beginners.md",
+    "Notes/How I Only Studied 2 hours a Day in Medical School.md",
+    "Notes/How Caffeine Affects Exercise & Athletic Performance.md",
+    "Notes/Forces Notes.md",
+    "Ebooks/SuperFunctional Training 2.0 (Adam Sinicki) (Z-Library).pdf",
+    "Ebooks",
+    "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf",
+    "Concepts/Science/Biology/Anatomy/Gluteus Medius.md",
+    "Concepts/Self Improvement/Physical Training/Hip Training.md",
+    "Concepts/Self Improvement/List of healthy habits to focus on.md",
+    "Notes/UNLOCK Your HIP Strength & Mobility.md",
+    "Concepts/Business/Entrepreneurship.md",
+    "Concepts/Self Improvement/Self Improvement.md",
+    "_Daily Notes/2023-08-03.md",
+    "_Daily Notes/2023-07-30.md",
+    "_Daily Notes/2023-07-31.md",
+    "_Daily Notes/~syncthing~2023-07-30.md.tmp",
+    "_Daily Notes/~syncthing~2023-07-31.md.tmp",
+    "_Daily Notes/~syncthing~2023-08-03.md.tmp",
+    "Concepts/Programming/Vim/Insert Mode.md",
+    "Notes/Taking Conceptual Notes.md",
+    "Concepts/Programming/Vim/Pasted image 20230727130259.jpg",
+    "Concepts/Programming/Vim/Normal Mode Operators.md",
+    "Concepts/Programming/Vim/Normal Mode Motions.md",
+    "Concepts/Programming/Vim/Normal Mode Counts.md",
+    "Concepts/Science/Chemistry/Elements",
+    "Concepts/Gardening/Plant Nutrients/Images/Potassium deficient leaves.png",
+    "Concepts/Gardening/Plant Nutrients/Images/Nitrogen deficient leaves.png",
+    "Concepts/Gardening/Plant Nutrients/Images/Iron deficient leaves.png",
+    "Concepts/Gardening/Plant Nutrients/Images/Boron deficient leaves.png",
+    "Concepts/Gardening/Plant Nutrients/Images/Molybdenum deficient leaves.png",
+    "Concepts/Gardening/Plant Nutrients/Images/Zink deficient leaves.png",
+    "Concepts/Gardening/Plant Nutrients/Images/Manganese deficient leaves.png",
+    "Concepts/Gardening/Plant Nutrients/Images/Copper deficient leaves.png",
     "Untitled.canvas"
   ]
 }
