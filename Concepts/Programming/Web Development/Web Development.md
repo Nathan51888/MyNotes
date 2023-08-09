@@ -1,5 +1,3 @@
 # Web Development
 
-[[HTML]]
-[[CSS]]
-[[Java Script]]
+Making a [[Website]] using [[HTML]], [[CSS]] and [[JavaScript]]

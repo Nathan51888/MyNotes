@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f1a65299a8ef32",
+        "id": "ef6f6e1fb99bf381",
         "type": "tabs",
         "children": [
           {
-            "id": "f05a2e9811c49a9b",
+            "id": "6b0757bf63a760fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ebooks/SuperFunctional Training 2.0 (Adam Sinicki) (Z-Library).pdf"
+              }
+            }
+          },
+          {
+            "id": "d003c27e386a19a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Daily Notes/2023-08-03.md",
+                "file": "Link.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Daily Notes/2023-08-03.md",
+            "file": "Link.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Daily Notes/2023-08-03.md",
+            "file": "Link.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Daily Notes/2023-08-03.md"
+            "file": "Link.md"
           }
         }
       }
@@ -132,10 +143,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f05a2e9811c49a9b",
+  "active": "d003c27e386a19a6",
   "lastOpenFiles": [
-    "_Daily Notes/2023-07-31.md",
+    "Ebooks/SuperFunctional Training 2.0 (Adam Sinicki) (Z-Library).pdf",
+    "Link.md",
+    "Link",
+    "Workout journal.md",
+    "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf",
     "_Daily Notes/2023-08-03.md",
+    "_Daily Notes/2023-07-31.md",
     "_Daily Notes/2023-07-30.md",
     "_Daily Notes/2023-07-29.md",
     "_Daily Notes/Daily Notes.md",
@@ -157,9 +173,6 @@
     "Strength.md",
     "stamina.md",
     "Untitled 1.md",
-    "Progressive Overload.md",
-    "Time Management.md",
-    "Time.md",
     "Notes/Vim",
     "Notes/Learning/Note Taking",
     "Notes/Learning"
