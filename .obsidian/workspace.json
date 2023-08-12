@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4cec257d9d8ee0",
+        "id": "79cc51a48ed877de",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7fbe7591376807",
+            "id": "9f2a686172b6acf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Cooking/Recipes/Shrimp Scampi.md",
+                "file": "Concepts/Business/Business.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Quotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Cooking/Recipes/Shrimp Scampi.md",
+                "file": "Concepts/Business/Business.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Cooking/Recipes/Shrimp Scampi.md",
+                "file": "Concepts/Business/Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Cooking/Recipes/Shrimp Scampi.md"
+                "file": "Concepts/Business/Business.md"
               }
             }
           }
@@ -161,48 +160,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35b05c89497dea5a",
+  "active": "eebd182e729d8df5",
   "lastOpenFiles": [
-    "Concepts/Cooking/Recipes/Ragu Alla Bolognese.md",
-    "Concepts/Cooking/Recipes/Shrimp Scampi.md",
-    "Concepts/Programming/git-cheat-sheet-education.pdf",
-    "Developers Institute Course Todo.md",
-    "Concepts/Science/Time.md",
-    "Concepts/Cooking/Recipes",
-    "Concepts/Programming/Web Development/HTML.md",
-    "Concepts/Programming/Vim/Normal Mode Motions.md",
-    "Concepts/Programming/Vim/Normal Mode.md",
-    "Concepts/Programming/Web Development/Emmnet.md",
-    "Concepts/Programming/Vim/Insert Mode.md",
-    "Concepts/Programming/Vim/Normal Mode Operators.md",
-    "Concepts/Programming/Web Development/Web Development.md",
-    "Concepts/Programming/Web Development/Website.md",
-    "Concepts/Programming/Web Development/JavaScript.md",
-    "Concepts/Programming/Web Development/CSS.md",
-    "Notes/Video Notes/UNLOCK Your HIP Strength & Mobility.md",
-    "Notes/Video Notes/Taking Conceptual Notes.md",
-    "Notes/Video Notes/How I Only Studied 2 hours a Day in Medical School.md",
-    "Notes/Video Notes/Forces Notes.md",
-    "Notes/Video Notes/How Caffeine Affects Exercise & Athletic Performance.md",
-    "Notes/Video Notes/An Easy Functional Training Workout for Beginners.md",
-    "Notes/Journals/Daily Notes.md",
-    "Notes/Video Notes",
+    "Learning Vim.md",
+    "Notes/UNLOCK Your HIP Strength & Mobility.md",
+    "Notes/Taking Conceptual Notes.md",
+    "Notes/How Caffeine Affects Exercise & Athletic Performance.md",
+    "Notes/An Easy Functional Training Workout for Beginners.md",
+    "Journals/Workout journal.md",
+    "Journals/Workout journal.md",
+    "Journals/My Regrets and Aspirations.md",
+    "Concepts/Productivity/Time Management.sync-conflict-20230812-202449-EQA777N.md",
+    "Concepts/Productivity/~syncthing~Time Management.sync-conflict-20230812-202449-EQA777N.md.tmp",
+    "Notes/Journals/~syncthing~Workout journal.md.tmp",
     "Notes/Journals",
-    "Concepts/Programming/Vim/Normal Mode Counts.md",
-    "Concepts/Programming/Web Development/Java Script.md",
-    "Notes/Journals/My Regrets and Aspirations.md",
-    "Concepts/Programming/Developers Institute/Technical Writing.md",
-    "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf",
-    "Concepts/Programming",
-    "Concepts/Self Improvement",
-    "Concepts/Science/Chemistry/PeriodicTableMuted2018.png",
-    "Concepts/Science/Biology/Anatomy",
-    "Ebooks/SuperFunctional Training 2.0 (Adam Sinicki) (Z-Library).pdf",
-    "Ebooks",
+    "Concepts/Programming/Vim/Command line Mode.md",
+    "Concepts/Programming/Vim/Text Objects.md",
     "Concepts/Programming/Vim/Pasted image 20230727130259.jpg",
+    "Concepts/Productivity/Time Management.md",
+    "Concepts/Productivity/Project Management.md",
+    "Concepts/Productivity/Time Blocking.md",
+    "Concepts/Productivity/Task Management.md",
+    "Concepts/Programming/Git/git-cheat-sheet-education.pdf",
+    "Concepts/Programming/Git",
+    "Concepts/Learning/Note Taking/Daily Notes.md",
+    "Journals/Developers Institute Course Todo.md",
+    "Journals/List of healthy habits to focus on.md",
+    "Concepts/Self Improvement/Physical Training/Isolated Exercise.md",
+    "Concepts/Self Improvement/Physical Training/Progressive Overload.md",
+    "Concepts/Self Improvement/Physical Training/Resistance Training.md",
+    "Concepts/Self Improvement/Physical Training/Stamina.md",
+    "Concepts/Self Improvement/Physical Training/Strength.md",
+    "Concepts/Self Improvement/Self Improvement.md",
+    "Concepts/Self Improvement/Physical Training/Gym.md",
+    "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf",
+    "Notes/Forces Notes.md",
+    "Concepts/Cooking/Recipes",
+    "Video Notes",
+    "Journals",
+    "Concepts/Programming",
+    "Concepts/Science/Chemistry/PeriodicTableMuted2018.png",
     "Concepts/Gardening/Plant Nutrients/Images/Potassium deficient leaves.png",
     "Concepts/Gardening/Plant Nutrients/Images/Nitrogen deficient leaves.png",
     "Concepts/Gardening/Plant Nutrients/Images/Iron deficient leaves.png",

@@ -1,6 +1,8 @@
 [
   "obsidian-style-settings",
-  "heatmap-calendar",
   "oz-image-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-image-toolkit",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin"
 ]

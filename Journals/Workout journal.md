@@ -57,3 +57,27 @@ Barbel shoulder press
 
 
 ## Leg days
+### 12/08/2023
+Leg press
+40 x 12
+80 x 12
+100 x 12
+120 x 8
+120 x 8
+
+Leg extension
+50 x 12
+55 x 12
+55 x 10
+55 x 8
+
+Prone leg curl
+45 x 12
+45 x 8
+45 x 10
+
+Adduction
+55 x 10
+55 x 7
+70 x 10
+65 x 10
