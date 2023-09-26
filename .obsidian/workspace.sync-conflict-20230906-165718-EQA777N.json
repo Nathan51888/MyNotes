@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "764796b0ec9f83e6",
+        "id": "33f0b3dd6acaa795",
         "type": "tabs",
         "children": [
           {
-            "id": "107dcf82e3e8eb50",
+            "id": "283dc97a0a9282d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Goal Setting.canvas",
+                "viewState": {
+                  "x": 801.6972691022548,
+                  "y": 1524.1610407599076,
+                  "zoom": -2.125065104166666
+                }
+              }
             }
           }
         ]
@@ -44,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:#Quotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web Development/CSS.md",
+                "file": "Goal Setting.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web Development/CSS.md",
+                "file": "Goal Setting.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +128,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "11f9d3fda8d3fb75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web Development/CSS.md"
+                "file": "Goal Setting.canvas"
               }
             }
           }
@@ -146,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,25 +175,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eebd182e729d8df5",
+  "active": "283dc97a0a9282d3",
   "lastOpenFiles": [
-    "Programming/Web Development/CSS.md",
-    "Excalidraw/Drawing 2023-08-17 17.25.56.excalidraw.md",
-    "Programming/Web Development/Emmnet.md",
-    "Notes/Taking Conceptual Notes.md",
-    "Programming/Developers Institute/Technical Writing.md",
-    "Notes/Journals/Workout journal.md",
-    "Notes/An Easy Functional Training Workout for Beginners.md",
-    "Notes/Journals/My Regrets and Aspirations.md",
-    "Programming/Vim/Normal Mode.md",
-    "Programming/Web Development/Website.md",
-    "Programming/Web Development/JavaScript.md",
-    "Programming/Web Development/Web Development.md",
-    "Programming/Web Development/HTML.md",
-    "Programming/Developers Institute/How do I ask a good question.md",
-    "Programming/Git/git-cheat-sheet-education.pdf",
     "Goal Setting.canvas",
     "Concepts/Self Improvement/Brain Training/Brain Training.md",
+    "Concepts/Programming/Web Development/Website.md",
+    "Concepts/Programming/Web Development/Web Development.md",
+    "Concepts/Programming/Web Development/JavaScript.md",
+    "Concepts/Programming/Web Development/HTML.md",
+    "Concepts/Programming/Web Development/Emmnet.md",
+    "Concepts/Programming/Web Development/CSS.md",
+    "Concepts/Programming/Git/git-cheat-sheet-education.pdf",
+    "Concepts/Programming/Developers Institute/How do I ask a good question.md",
+    "Concepts/Programming/Developers Institute/Technical Writing.md",
     "Journals/Developers Institute Course Todo.md",
     "Notes/Learning Vim.md",
     "Concepts/Jamie.md",
@@ -192,6 +202,11 @@
     "Concepts/Cooking/Smoke Curing.md",
     "Concepts/Cooking/Salt Curing.md",
     "Concepts/Cooking/Recipes",
+    "Concepts/Cooking/Ravioli.md",
+    "Concepts/Cooking/Pappardelle.md",
+    "Concepts/Cooking/How smoke preserves food.md",
+    "Concepts/Cooking/Fresh Pasta.md",
+    "Concepts/Cooking/Diet.md",
     "Concepts/Cooking",
     "Concepts/Self Improvement/Brain Training",
     "Concepts/Self Improvement/Physical Training",
@@ -199,7 +214,7 @@
     "Concepts/Business/Business Model Graph.png",
     "Concepts/Business",
     "Concepts/Productivity/~syncthing~Time Management.sync-conflict-20230812-202449-EQA777N.md.tmp",
-    "Programming/Vim/Pasted image 20230727130259.jpg",
+    "Concepts/Programming/Vim/Pasted image 20230727130259.jpg",
     "Concepts/Science/Chemistry/PeriodicTableMuted2018.png",
     "Concepts/Gardening/Plant Nutrients/Images/Potassium deficient leaves.png",
     "Concepts/Gardening/Plant Nutrients/Images/Nitrogen deficient leaves.png",

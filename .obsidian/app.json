@@ -27,5 +27,7 @@
     "editor:unindent-list",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "promptDelete": false,
+  "propertiesInDocument": "visible"
 }

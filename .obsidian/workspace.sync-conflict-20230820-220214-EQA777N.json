@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "764796b0ec9f83e6",
+        "id": "dfcffe3cdf377f2b",
         "type": "tabs",
         "children": [
           {
-            "id": "107dcf82e3e8eb50",
+            "id": "9bf75d0215aaa08f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:#Quotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web Development/CSS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web Development/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +135,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web Development/CSS.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,27 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eebd182e729d8df5",
+  "active": "9bf75d0215aaa08f",
   "lastOpenFiles": [
-    "Programming/Web Development/CSS.md",
     "Excalidraw/Drawing 2023-08-17 17.25.56.excalidraw.md",
-    "Programming/Web Development/Emmnet.md",
-    "Notes/Taking Conceptual Notes.md",
-    "Programming/Developers Institute/Technical Writing.md",
     "Notes/Journals/Workout journal.md",
-    "Notes/An Easy Functional Training Workout for Beginners.md",
-    "Notes/Journals/My Regrets and Aspirations.md",
-    "Programming/Vim/Normal Mode.md",
-    "Programming/Web Development/Website.md",
-    "Programming/Web Development/JavaScript.md",
-    "Programming/Web Development/Web Development.md",
-    "Programming/Web Development/HTML.md",
-    "Programming/Developers Institute/How do I ask a good question.md",
-    "Programming/Git/git-cheat-sheet-education.pdf",
-    "Goal Setting.canvas",
-    "Concepts/Self Improvement/Brain Training/Brain Training.md",
-    "Journals/Developers Institute Course Todo.md",
+    "Excalidraw",
+    "Ebooks/Mastering pasta_ the art and practice of handmade pasta, gnocchi, and risotto ( PDFDrive ).pdf",
     "Notes/Learning Vim.md",
+    "Journals/Developers Institute Course Todo.md",
     "Concepts/Jamie.md",
     "Concepts/Ambidexterity training.md",
     "Concepts/Fighting Games/Street Fighter 6/Street Fighter 6.md",
@@ -192,14 +176,26 @@
     "Concepts/Cooking/Smoke Curing.md",
     "Concepts/Cooking/Salt Curing.md",
     "Concepts/Cooking/Recipes",
+    "Concepts/Cooking/Ravioli.md",
+    "Concepts/Cooking/Pappardelle.md",
+    "Concepts/Cooking/How smoke preserves food.md",
+    "Concepts/Cooking/Fresh Pasta.md",
+    "Concepts/Cooking/Diet.md",
     "Concepts/Cooking",
+    "Concepts/Self Improvement/Brain Training/Meditation.md",
+    "Concepts/Self Improvement/Brain Training/Working memory.md",
+    "Concepts/Self Improvement/Brain Training/Learning.md",
+    "Concepts/Self Improvement/Brain Training/Focus.md",
+    "Concepts/Self Improvement/Brain Training/Creativity.md",
+    "Concepts/Self Improvement/Brain Training/CBT.md",
+    "Concepts/Self Improvement/Brain Training/Breathing Meditation.md",
+    "Concepts/Self Improvement/Brain Training/Brain Training.md",
     "Concepts/Self Improvement/Brain Training",
     "Concepts/Self Improvement/Physical Training",
     "Concepts/Self Improvement",
     "Concepts/Business/Business Model Graph.png",
     "Concepts/Business",
-    "Concepts/Productivity/~syncthing~Time Management.sync-conflict-20230812-202449-EQA777N.md.tmp",
-    "Programming/Vim/Pasted image 20230727130259.jpg",
+    "Concepts/Programming/Vim/Pasted image 20230727130259.jpg",
     "Concepts/Science/Chemistry/PeriodicTableMuted2018.png",
     "Concepts/Gardening/Plant Nutrients/Images/Potassium deficient leaves.png",
     "Concepts/Gardening/Plant Nutrients/Images/Nitrogen deficient leaves.png",
@@ -207,6 +203,7 @@
     "Concepts/Gardening/Plant Nutrients/Images/Boron deficient leaves.png",
     "Concepts/Gardening/Plant Nutrients/Images/Molybdenum deficient leaves.png",
     "Concepts/Gardening/Plant Nutrients/Images/Zink deficient leaves.png",
-    "Concepts/Gardening/Plant Nutrients/Images/Manganese deficient leaves.png"
+    "Concepts/Gardening/Plant Nutrients/Images/Manganese deficient leaves.png",
+    "Untitled.canvas"
   ]
 }

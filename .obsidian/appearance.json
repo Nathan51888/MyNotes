@@ -1,7 +1,7 @@
 {
   "translucency": false,
   "theme": "system",
-  "cssTheme": "Prism",
+  "cssTheme": "",
   "baseFontSize": 16,
   "accentColor": "",
   "showViewHeader": true,
